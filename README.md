@@ -15,7 +15,7 @@ Oct 29, 2026 · @테르비나
 
 | 항목 | 내용 |
 | --- | --- |
-| Zotero 7 + Word 플러그인 | 인용할 논문이 한 폴더(콜렉션)에 모여 있어야 함 |
+| Zotero 7 이상 + Word 플러그인 | 인용할 논문이 한 폴더(콜렉션)에 모여 있어야 함 |
 | Zotero 데이터 폴더 | `zotero.sqlite`가 있는 폴더. 내 경우 `D:\OneDrive\zotero` (스크립트 기본값) |
 | Anaconda (또는 Miniconda) | Windows용 |
 | `zotero_link_citations.py` | 본 스크립트 (본 글에 첨부) |
